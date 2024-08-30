@@ -1,4 +1,4 @@
-# 1.-Alzheimer's-Bioactivity-Prediction-
+# Alzheimer's-Bioactivity-Prediction-
 ## Machine Learning | Bioinformatics | Gammasecreatse complex protein
 
 ## Introduction
